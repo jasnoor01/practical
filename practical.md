@@ -12,9 +12,9 @@ Branch-InformationTechnology
 Section - A2 
 Roll Number - 1921047
 
-# My C programes 
+# My C program's 
 </code></pre>
-</h3><h2 id="wap-to-swap-two-numbers-with-the-help-of-third-number">1:WAP to swap two number’s with the help of third number</h2>
+</h3><h2 id="wap-to-swap-two-numbers-with-the-help-of-third-number">1:WAP to swap two numbers with the help of third number</h2>
 <pre><code>#include&lt;stdio.h&gt;
 int main()
  {
