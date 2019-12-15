@@ -166,7 +166,8 @@ scanf("%d%d",&amp;a,&amp;b);
 for(i=a;i&lt;=b;i++)
 {p=1;
 for(n=2;n&lt;i;n++)
-{                                                                  if(i%n==0)
+{
+if(i%n==0)
 {
 p=0;
 break;}
